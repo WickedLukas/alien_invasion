@@ -1,4 +1,4 @@
 Alien Invasion
 ==============
 
-A game made while reading Python Crash course by Eric Matthes.
+A game made while reading Python Crash Course by Eric Matthes.
