@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "alien-invasion"
+version = "0.1.0"
+description = ""
+authors = ["Lukas <lukas_m@gmx.de>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+pygame = "^2.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
